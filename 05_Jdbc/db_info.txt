@@ -1,0 +1,3 @@
+url= jdbc:mysql://localhost:4406/weja4
+user= root
+password= root
